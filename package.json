@@ -1,0 +1,24 @@
+{
+  "name": "learn_nodejs_tips_javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "compresion": "^1.7.11",
+    "compression": "^1.7.4",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "helmet": "^7.0.0",
+    "morgan": "^1.10.0"
+  }
+}
